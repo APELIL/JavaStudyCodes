@@ -5,3 +5,5 @@
 .out/
 *.class
 *.iml
+.operator/
+*.jar
