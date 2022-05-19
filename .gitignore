@@ -7,3 +7,4 @@
 *.iml
 .operator/
 *.jar
+.out/production/基础语法
