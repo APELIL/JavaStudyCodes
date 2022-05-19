@@ -7,4 +7,4 @@
 *.iml
 .operator/
 *.jar
-.02JavaSE
+.02.JavaSE/out/
